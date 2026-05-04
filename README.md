@@ -3,7 +3,7 @@
 This project runs an automated Python pipeline that ingests global market data, runs quantitative risk-reward analytics, performs predictive forecasting, and visualizes the results on a cinematic, interactive 3D globe.
 
 ## 🚀 Key Features
-*   **Automated Data Ingestion**: Fetches real-time price data for major global stock market indices and macroeconomic indicators (Yields, CPI) via Yahoo Finance and FRED.
+*   **Automated Data Ingestion**: Fetches real-time price data for major global stock market indices and macroeconomic indicators from 5 years to now (Yields, CPI) via Yahoo Finance and FRED.
 *   **Quantitative Analytics**: Calculates annualized returns, volatility, and **Sharpe Ratios** to rank markets by risk-adjusted performance.
 *   **Predictive Modeling**:
     *   **ARIMA**: Statistical baseline trend forecasting.
