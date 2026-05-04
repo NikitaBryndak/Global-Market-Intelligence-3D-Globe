@@ -32,3 +32,8 @@ The project tracks the following primary stock market indices to gauge the healt
 ```bash
 git clone [https://github.com/YOUR_USERNAME/GlobalMarketIntelligenceGlobe.git](https://github.com/YOUR_USERNAME/GlobalMarketIntelligenceGlobe.git)
 cd GlobalMarketIntelligenceGlobe
+```
+
+### 1. Run the main.py file from your IDE or run the following command:
+``` bash
+python main.py
